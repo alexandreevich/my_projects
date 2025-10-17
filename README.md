@@ -1,7 +1,11 @@
 # Мои учебные / пэт проекты 
 
 ## Data Sciense by Я.Практикум
-- [Все проектные работы](https://github.com/alexandreevich/DataScienceYaPractikum/tree/main)
+Python / Jupyter Notebook / SQL / Pandas / NumPy / Matplotlib / Seaborn / SciPy
+/ Scikit-learn / CatBoost / LightGBM/XGBoost / Shap / Optuna / PyTorch
+
+
+[Все проектные работы](https://github.com/alexandreevich/DataScienceYaPractikum/tree/main)
 
 ## DevOps пройденные блоки
 1. [Bash-скрипты](https://github.com/alexandreevich/bash_homework/tree/master)
@@ -24,4 +28,5 @@ Terraform / Kubespray / Gitlab CI / Nginx / Grafana / Helm
 
 ## Системный аналитик 
 ### Дипломная работа
+Функциональные / Нефункциональные требования / Диграмма классов (UML) / Документация Swagger / SRS спецификация
 [Приложение мобильной связи](https://github.com/alexandreevich/diplom_system_analyze/tree/main)
