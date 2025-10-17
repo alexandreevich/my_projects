@@ -5,7 +5,7 @@
 
 ## DevOps пройденные блоки
 1. [Bash-скрипты](https://github.com/alexandreevich/bash_homework/tree/master)
-2. [Виртуализация, автоматизация и CI/CD] (https://github.com/alexandreevich/sdvps-homeworks/blob/main/README.md)
+2. [Виртуализация, автоматизация и CI/CD](https://github.com/alexandreevich/sdvps-homeworks/blob/main/README.md)
 3. [Отказоустойчивость (HAProxy / rsync / )](https://github.com/alexandreevich/sflt-homeworks?tab=readme-ov-file)
 4. [ DBA / Rabbit / IB](https://github.com/alexandreevich/sdb-homeworks/tree/main)
 5. [Мониторинг](https://github.com/alexandreevich/smon-homeworks/blob/main/README.md)
