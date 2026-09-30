@@ -1,12 +1,14 @@
 # Мои учебные / пэт проекты 
 
 ## MLOps
+Gitlab-ci / uv /  mupy / ruff / Docker / Airflow / ClearML / MLFlow / k8s / 
+KServe / Prometheus / Grafana / Loki / cAdvisor
+
 [Сборник итоговых проектов по MLops](https://github.com/alexandreevich/mlops_portfolio) 
-Gitlab-ci / uv /  mupy / ruff / Docker / Airflow / ClearML / MLFlow / k8s / KServe / Prometheus / Grafana / Loki / cAdvisor
 
 ## Data Sciense by Я.Практикум
-Python / Jupyter Notebook / SQL / Pandas / NumPy / Matplotlib / Seaborn / SciPy
-/ Scikit-learn / CatBoost / LightGBM/XGBoost / Shap / Optuna / PyTorch
+Python / Jupyter Notebook / SQL / Pandas / NumPy / Matplotlib / Seaborn / SciPy / 
+ Scikit-learn / CatBoost / LightGBM/XGBoost / Shap / Optuna / PyTorch
 
 
 [Все проектные работы](https://github.com/alexandreevich/DataScienceYaPractikum/tree/main)
