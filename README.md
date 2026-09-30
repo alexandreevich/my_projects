@@ -1,5 +1,8 @@
 # Мои учебные / пэт проекты 
 
+## MLOps
+[Сборник итоговых проектов по MLops](https://github.com/alexandreevich/mlops_portfolio) 
+
 ## Data Sciense by Я.Практикум
 Python / Jupyter Notebook / SQL / Pandas / NumPy / Matplotlib / Seaborn / SciPy
 / Scikit-learn / CatBoost / LightGBM/XGBoost / Shap / Optuna / PyTorch
